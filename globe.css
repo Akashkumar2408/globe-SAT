@@ -1,0 +1,26 @@
+
+.footer_background{
+	background: #000;
+	color: white;
+}
+.flex {
+	display:inline-flex;
+	align-content: center;
+}
+.nav{
+	margin-top: 20px;
+ float: right;
+}
+.page_padding{
+
+	padding: 0px 50px 0px 50px;
+}
+body {
+	font-family: 'Montserrat', sans-serif;
+
+}
+.font_size{
+	letter-spacing: 1px; 
+	word-spacing: 5px; 
+	color: darkgray; 
+}
