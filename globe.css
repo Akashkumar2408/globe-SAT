@@ -16,7 +16,7 @@
 
 	margin: 0px 180px;
 }
-body {
+.page_text {
 	font-family: 'Montserrat', sans-serif;
 
 }
@@ -40,3 +40,18 @@ img{
 .content_part_1_line{
 	word-spacing: 2px;
 }
+.BL {
+   position: absolute;
+       bottom: 340px;
+    left: 205px;
+   }
+.text_on_image{
+	font-family: 'Inter', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+font-size: 3.5em;
+letter-spacing: -5px;
+color: ;
+line-height:42px;
+}
+
