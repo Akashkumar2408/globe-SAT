@@ -5,15 +5,16 @@
 }
 .flex {
 	display:inline-flex;
-	align-content: center;
+	align-content: center ;
+	flex-wrap: nowrap;
 }
 .nav{
-	margin-top: 20px;
+	margin-top: 12px;
  float: right;
 }
-.page_padding{
+.page_margin{
 
-	padding: 0px 50px 0px 50px;
+	margin: 0px 180px;
 }
 body {
 	font-family: 'Montserrat', sans-serif;
@@ -21,6 +22,21 @@ body {
 }
 .font_size{
 	letter-spacing: 1px; 
-	word-spacing: 5px; 
-	color: darkgray; 
+	word-spacing: 20px; 
+	color: rgba(90, 90, 90);
+}
+img{
+ border-radius: 10px;
+}
+.padding_for_text{
+	padding-top:50px ;
+	padding-bottom:50px ;
+	padding-right:40px;
+	padding-left:40px ;
+}
+.content_margin{
+	margin: 25px;
+}
+.content_part_1_line{
+	word-spacing: 2px;
 }
