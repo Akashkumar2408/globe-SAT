@@ -95,7 +95,7 @@ a{
 	background: white;
 	border-radius: 5px;
 	padding: 10px;
-	margin: 5PX;
+	margin: 5px;
 	color: black;
 }
 .white_box_position{
@@ -138,4 +138,33 @@ a{
 	border-radius: 50%;
     padding: 4px 10px;
 }
-.
+.box_margin{
+	margin: 0px 5px;
+}
+.box_blog_text{
+	text-align: left;
+}
+.bolg_text_color{
+	color: black solid bold;
+}
+.mar{
+	margin: 10px;
+
+}
+
+
+
+
+/*footer*/
+
+.argin_on_footer{
+	margin: 20px;
+	padding: 20px;
+	word-spacing: 15px;
+}
+
+.argin_on_footer_2{
+	margin: 20px;
+	padding: 20px;
+	
+}
